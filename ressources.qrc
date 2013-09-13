@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file alias="begin">res/begin.png</file>
+        <file alias="copy">res/copy.png</file>
+        <file alias="dice_little">res/de.png</file>
+        <file alias="dice">res/dice.png</file>
+        <file alias="error">res/error.png</file>
+        <file alias="glass">res/glass.png</file>
+        <file alias="go">res/go.png</file>
+        <file alias="info">res/info_small.png</file>
+        <file alias="load">res/load.png</file>
+        <file alias="log">res/log.png</file>
+        <file alias="mj">res/mj.png</file>
+        <file alias="file">res/open.png</file>
+        <file alias="options">res/options.png</file>
+        <file alias="save">res/save.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file alias="bell">ressources/schoolbell.wav</file>
+    </qresource>
+</RCC>
